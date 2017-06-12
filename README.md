@@ -5,5 +5,10 @@ This is the repository in which we will be putting the basic code related to the
 2. for loop
 3. while loop
 4. string library
+	1. find
+	2. reverse
+	3. length
 5. math library
 6. if/else
+7. concatination
+8. modules
